@@ -1,7 +1,7 @@
 
 body {
-  background-color: #c4dce1; /* change background color */
-  text-align: center;
+  background-color: #000066; /* change background color */
+  text-align: center;/
   color: #000;  /* change font color */
   line-height: 36px;
   -webkit-font-smoothing: antialiased;
@@ -29,7 +29,7 @@ h1 {
 }
 
 #container {
-  background-image: url("../img/cement.jpg"); /* change */
+  background-image: url("../img/background.jpg"); /* change */
   min-height: 100%;
   max-width: 960px;
   margin: 0 auto;
